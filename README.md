@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNTERSCOUTI&theme=tokyonight)
 
 <h2>About me</h2>
-<p>My name is Zilas Jørgensen, but I also go by HUNTERSCOUTI online.
+<p>My name is Zilas Jørgensen
 <br>
 <br>I'm a College student at Tech College in Aalborg, Denmark. I am studying under the Data Technician line with specialty
 <br>I'm currently in my second year and working as an intern software developer at EMD
